@@ -1,4 +1,3 @@
 # QR-Generator
-https://hangingpawn-genqr.netlify.app/
-<br>
-this is my first project deployed on netlify
+<b>Deployed here:</b>  <i>https://hangingpawn-genqr.netlify.app/</i>
+
